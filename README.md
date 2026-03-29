@@ -1,1 +1,2 @@
-# lab-agile-planning
+# Capstone Final project
+
